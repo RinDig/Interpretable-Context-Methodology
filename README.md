@@ -1,4 +1,4 @@
-# Interpretable Context Methodology (ICM)
+# Interpretable Context Methodology™ (ICM™)
 
 Folder structure as agent architecture.
 
@@ -252,6 +252,14 @@ Every workspace follows 15 patterns defined in [`_core/CONVENTIONS.md`](_core/CO
 ICM grew out of a [content production system](https://github.com/RinDig/Content-Agent-Routing-Promptbase) that applies separation of concerns to AI context windows instead of code modules. That system runs a full content operation: scripting, animation specs, Remotion builds, brand management. ICM is the general-purpose version -- the structural patterns extracted so anyone can scaffold their own workflows.
 
 For the academic treatment, see [Model Workspace Protocol: Folder Structure as Agent Architecture](link-to-paper) (Van Clief, 2026).
+
+## Name and Trademark
+
+Interpretable Context Methodology™ and ICM™ are trademarks of Jake Van Clief.
+
+The MIT License covers the files in this repo. It grants no rights in the names.
+
+You are free to use the method, build on it, teach it, and say your work follows or is compatible with ICM. Please do not use the names in a way that suggests your product, course, or service is official or endorsed.
 
 ## License
 
